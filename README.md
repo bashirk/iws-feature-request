@@ -131,4 +131,4 @@ To run tests, just run the command below at the application root.
 ## Demo
 
 <http://iws-britecore.herokuapp.com/>
-# iws-feature-app
+# iws-feature-request
