@@ -1,0 +1,8 @@
+startup.sh
+/myvirtualenv
+test.db
+__pycache__
+.pytest_cache
+README.md
+README1.md
+README2.md
